@@ -1,0 +1,13 @@
+#nav{
+    background-color: rgb(88, 78, 64);
+    height: 35px;
+    margin-bottom: 25px;
+    align-items: flex-end;
+    display: flex;
+    justify-content: flex-end;
+
+}
+#nav>button{
+    vertical-align: top;
+    margin: auto 10vw;
+}
